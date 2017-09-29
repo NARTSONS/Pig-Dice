@@ -6,8 +6,9 @@
 }
 
 .header{
-	float: center;
-	color:red;
+	float: center; 
+	text-align: center;
+	color:blue;
 }
 
 .col-md-6{
@@ -21,7 +22,19 @@ float: center; color:blue;
 body{
 	background-image: url(../img/back.jpg);
 }
-.gif{
-	width: 10px;
-	
+
+.roll-col-md-6{
+	float: left;
+}
+
+.switch-col-md-6{
+	float: right; 
+}
+
+.tom-col-md-6{
+	float: left;
+}
+
+.jerry-col-md-6{
+	float: right;
 }
